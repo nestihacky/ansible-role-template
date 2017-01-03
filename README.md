@@ -18,11 +18,11 @@ None so far.
 Example Playbook
 ----------------
 
-   ---
-   - hosts: template
-     sudo: yes
-       roles:
-       - nestihacky.template
+    ---
+    - hosts: template
+      sudo: yes
+        roles:
+        - nestihacky.template
 
 License
 -------
